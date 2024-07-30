@@ -1,0 +1,5 @@
+{
+  "themeSelector": "{\"light\":\"Light\",\"dark\":\"Dark\",\"system\":\"System\"}",
+  "languageSelector": "{\"en\":\"English\",\"es\":\"Spanish\"}",
+  "profileMenu": "{\"dashboard\":\"Dashboard\",\"accounting\":\"Accounting\",\"profile\":\"Profile\",\"settings\":\"Settings\",\"logout\":\"Log out\"}"
+}
